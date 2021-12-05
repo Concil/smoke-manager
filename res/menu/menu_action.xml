@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/report"
+        android:title="Rückblick"
+        android:visible="true"
+        app:materialIcon="calendar_clock"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bilanz"
+        android:title="Bilanz"
+        android:visible="true"
+        app:materialIcon="calendar_question"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settings"
+        android:title="Einstellungen"
+        android:visible="true"
+        app:materialIcon="settings"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:visible="true"
+        app:materialIcon="share"
+        app:showAsAction="always" />
+</menu>

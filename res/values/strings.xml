@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smoke Manager</string>
+    <string name="tab_text_1">Tag</string>
+    <string name="tab_text_2">Woche</string>
+    <string name="tab_text_3">Monat</string>
+
+    <string name="DialogImportant_title">Warning: this is an pre release.</string>
+    <string name="DialogImportant_content">so this app can maybe have bugs or empty features.\nYou can contact me if anything goes wrong or you want a new features.</string>
+</resources>
